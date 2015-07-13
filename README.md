@@ -1,4 +1,4 @@
 TypeScript Test files
 
-var x:number = 5;
+var x:number = 6;
 x='hello';
